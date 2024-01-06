@@ -25,6 +25,10 @@ title = f"""{Fore.RED}
 """
 print(title)
 
+webbrowser.open("https://www.youtube.com/channel/UCN8LRd8JnX2FkelKfnfRRfg")
+webbrowser.open("discord.gg/jnn")
+
+
 new_script_content = """
 {
     "FFlagDebugSimIntegrationStabilityTesting": "True",
